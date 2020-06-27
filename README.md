@@ -17,18 +17,16 @@
 * Spring security to configure Basic Authentication and JWT
 
 ## Snippets
-1. Login Page
-![Login Page](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/1_todo_angular_login.png)
 
-2. Todos Page
-![Todos Page](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/2_todo_angular_todos.png)
+1. List Todos
+![List Todos](https://github.com/vyom-shah/React-Spring-Boot-TODO-Application/blob/master/Images/List_Todos.png)
 
-2. Add Todo
-![Add Todo](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/3_todo_angular_add.png)
+2. Front End Backend Connection
+![Front End Backend Connection](https://github.com/vyom-shah/React-Spring-Boot-TODO-Application/blob/master/Images/Test%20frontend_backend%20connection.png)
 
 3. Validation
-![Validation](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/todo_angular.png)
+![Validation](https://github.com/vyom-shah/React-Spring-Boot-TODO-Application/blob/master/Images/Todo_Validation.png)
 
-4. Added Todo
-![Added Todo](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/4_todo_angular_added.png)
+4. Delete Todo
+![Delete Todo](https://github.com/vyom-shah/React-Spring-Boot-TODO-Application/blob/master/Images/Delete_Successful.png)
 
